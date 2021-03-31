@@ -25,7 +25,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 498}
   m_MaxSize: {x: 18008, y: 14048}
   vertical: 0
-  controlID: 2288
+  controlID: 3315
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -130,7 +130,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 448}
   m_MaxSize: {x: 4002, y: 8048}
   vertical: 1
-  controlID: 2289
+  controlID: 3295
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -184,14 +184,14 @@ MonoBehaviour:
     height: 344
   m_PersistentViewDataDictionary: {fileID: 0}
   m_WindowGUID: 3db7950edb782fd48ab8539794448609
-  m_SceneLighting: 1
+  m_SceneLighting: 0
   m_2DMode: 1
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.7736842, y: -0.023402102, z: -0.035281148}
+    m_Target: {x: -3.7493858, y: 0.5239779, z: 0}
     speed: 2
-    m_Value: {x: 0.7736842, y: -0.023402102, z: -0.035281148}
+    m_Value: {x: -3.7493858, y: 0.5239779, z: 0}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -201,7 +201,7 @@ MonoBehaviour:
   m_SceneViewState:
     showFog: 1
     showMaterialUpdate: 0
-    showSkybox: 1
+    showSkybox: 0
     showFlares: 1
     showImageEffects: 1
     showParticleSystems: 1
@@ -223,9 +223,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 13.526113
+    m_Target: 2.1489308
     speed: 2
-    m_Value: 13.526113
+    m_Value: 2.1489308
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -377,7 +377,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 498}
   m_MaxSize: {x: 10004, y: 14048}
   vertical: 1
-  controlID: 2134
+  controlID: 3265
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -435,7 +435,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 58faffffb0faffff14fbffffdcfbffff
+      m_ExpandedIDs: 4c300000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -523,7 +523,7 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Levels
+    - Assets/Prefabs
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders: []
@@ -560,10 +560,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_AssetTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 540a0000
-    m_LastClickedID: 2644
-    m_ExpandedIDs: ffffffff00000000fc090000320b0000b00c0000
+    scrollPos: {x: 0, y: 113}
+    m_SelectedIDs: 4c300000
+    m_LastClickedID: 0
+    m_ExpandedIDs: ffffffff00000000fc090000320b00003c0c0000700c0000b00c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -588,8 +588,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 540a0000
-    m_LastClickedInstanceID: 2644
+    m_SelectedInstanceIDs: 4c300000
+    m_LastClickedInstanceID: 12364
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
