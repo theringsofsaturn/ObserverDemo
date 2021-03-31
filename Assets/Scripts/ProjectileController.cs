@@ -24,6 +24,12 @@ public class ProjectileController : MonoBehaviour
 
         if (ScreenBounds.OutOfBounds(transform.position))
         {
+            if(isPlayers == true)
+            {
+                PlayerController playerShip = FindObjectOfType<PlayerController>();
+                playerShip.EnableProjectile();
+            }
+
             Destroy(gameObject);
         }
     }
